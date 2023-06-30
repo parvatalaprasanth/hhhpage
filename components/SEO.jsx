@@ -12,11 +12,11 @@ export function SEO() {
         site_name: "Michele Riva",
         images: [
           {
-            url: "https://www.micheleriva.it/imgs/micheleriva_og_image.png",
+            url: "https://www.micheleriva.it/imgs/micheleriva_og_image.jpg",
             alt: "Michele Riva - Senior Architect, Published Author, International Speaker",
             height: 1920,
             width: 1080,
-            type: "image/png",
+            type: "image/jpg",
           },
         ],
       }}

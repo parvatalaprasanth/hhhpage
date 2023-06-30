@@ -77,7 +77,7 @@ export default function Home() {
           <div className="grid gap-10 md:grid-cols-2">
             <div className="relative">
               <Image
-                src="/imgs/micheleriva_real_world_nextjs.png"
+                src="/imgs/micheleriva_real_world_nextjs.jpg"
                 alt="Real-World Next.js, written by Michele Riva"
                 layout="responsive"
                 width={200}
