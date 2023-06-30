@@ -2,9 +2,8 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    loader: 'custom',
-    loaderFile: './app/image.js',
-  },
+    unoptimized: true,
+    },
 }
 
 module.exports = nextConfig
