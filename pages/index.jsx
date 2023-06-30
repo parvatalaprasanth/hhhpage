@@ -59,7 +59,7 @@ export default function Home() {
           </p>
           <div className="relative w-full h-48 md:h-full">
             <Image
-              src="/imgs/micheleriva-leaddev.JPG"
+              src="/imgs/micheleriva-leaddev.jpg"
               alt="Michele Riva at BeJS 2022, Brussels, Belgium"
               layout="fill"
               objectFit="cover"
